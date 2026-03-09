@@ -10,13 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

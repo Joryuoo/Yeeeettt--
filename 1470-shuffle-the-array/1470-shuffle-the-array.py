@@ -6,6 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
 
+        """
+        dako ra kaayu... fuck it
         ans, x, y = [0] * (2 * n), 0, 0
         for i in range(n * 2):
             if i % 2 == 0:
@@ -14,7 +16,13 @@ class Solution(object):
             else:
                 ans[i] = nums[n + y]
                 y += 1
-
+        return ans
+        """
+        ans = []
+        for i in range(n):
+            ans.append(nums[i])
+            ans.append(nums[i + n])
+        return ans
                 
         
-        return ans
+        

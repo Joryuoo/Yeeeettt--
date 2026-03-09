@@ -8,7 +8,6 @@ class Solution(object):
         rev, orig = 0, x
 
         while x > 0:
-            n = orig % 10
             rev = (rev * 10) + (x % 10)
             x //= 10
         

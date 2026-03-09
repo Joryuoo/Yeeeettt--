@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -48,8 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

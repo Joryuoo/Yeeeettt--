@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Joryuoo/Yeeeettt--/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Joryuoo/Yeeeettt--/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Joryuoo/Yeeeettt--/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of my ass LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of my ass LeetCode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Joryuoo/Yeeeettt--/tree/master/0058-length-of-last-word) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Matrix
 |  |

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

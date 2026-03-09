@@ -30,4 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

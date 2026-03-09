@@ -28,6 +28,7 @@ A collection of my ass LeetCode solutions
 | [0020-valid-parentheses](https://github.com/Joryuoo/Yeeeettt--/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Joryuoo/Yeeeettt--/tree/master/0058-length-of-last-word) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -68,6 +69,7 @@ A collection of my ass LeetCode solutions
 | [0002-add-two-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
 | ------- |

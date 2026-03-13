@@ -9,6 +9,7 @@ A collection of my ass LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joryuoo/Yeeeettt--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -22,6 +23,7 @@ A collection of my ass LeetCode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 ## String

@@ -17,6 +17,7 @@ A collection of my ass LeetCode solutions
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joryuoo/Yeeeettt--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of my ass LeetCode solutions
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Joryuoo/Yeeeettt--/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of my ass LeetCode solutions
 | [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Joryuoo/Yeeeettt--/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of my ass LeetCode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Joryuoo/Yeeeettt--/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->

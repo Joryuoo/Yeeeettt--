@@ -9,6 +9,7 @@ A collection of my ass LeetCode solutions
 | [0014-longest-common-prefix](https://github.com/Joryuoo/Yeeeettt--/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/0485-max-consecutive-ones) |
@@ -85,6 +86,7 @@ A collection of my ass LeetCode solutions
 | [0009-palindrome-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Joryuoo/Yeeeettt--/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |

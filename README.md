@@ -42,6 +42,7 @@ A collection of my ass LeetCode solutions
 | [0020-valid-parentheses](https://github.com/Joryuoo/Yeeeettt--/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Joryuoo/Yeeeettt--/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Joryuoo/Yeeeettt--/tree/master/0392-is-subsequence) |
@@ -67,6 +68,7 @@ A collection of my ass LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -91,6 +93,7 @@ A collection of my ass LeetCode solutions
 | [0012-integer-to-roman](https://github.com/Joryuoo/Yeeeettt--/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
@@ -113,6 +116,7 @@ A collection of my ass LeetCode solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |

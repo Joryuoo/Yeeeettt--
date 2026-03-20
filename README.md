@@ -66,6 +66,7 @@ A collection of my ass LeetCode solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ A collection of my ass LeetCode solutions
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |

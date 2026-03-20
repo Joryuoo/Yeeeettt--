@@ -12,6 +12,7 @@ A collection of my ass LeetCode solutions
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
@@ -69,11 +70,13 @@ A collection of my ass LeetCode solutions
 | [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of my ass LeetCode solutions
 | [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Joryuoo/Yeeeettt--/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Joryuoo/Yeeeettt--/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -99,6 +103,7 @@ A collection of my ass LeetCode solutions
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
@@ -144,5 +149,6 @@ A collection of my ass LeetCode solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->

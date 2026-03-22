@@ -17,6 +17,7 @@ A collection of my ass LeetCode solutions
 | [0485-max-consecutive-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Joryuoo/Yeeeettt--/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joryuoo/Yeeeettt--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -71,6 +72,7 @@ A collection of my ass LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |

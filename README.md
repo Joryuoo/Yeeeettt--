@@ -12,6 +12,7 @@ A collection of my ass LeetCode solutions
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of my ass LeetCode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |

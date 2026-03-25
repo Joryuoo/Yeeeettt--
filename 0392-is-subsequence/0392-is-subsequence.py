@@ -6,14 +6,9 @@ class Solution(object):
         :rtype: bool
         """
 
-        i = 0
         j = 0
-        sum_ = 0
-
-        while i < len(t):
-            if t[i] in s and t[i] == s[j]:
+        for i in range(len(t)):
+            if j < len(s) and t[i] == s[j]:
                 j += 1
-                sum_ += 1
-            i += 1
         
-        return sum_ == len(s)
+        return j == len(s)

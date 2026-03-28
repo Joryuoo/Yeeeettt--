@@ -23,6 +23,7 @@ A collection of my ass LeetCode solutions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joryuoo/Yeeeettt--/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joryuoo/Yeeeettt--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1929-concatenation-of-array) |
@@ -82,6 +83,7 @@ A collection of my ass LeetCode solutions
 | [0374-guess-number-higher-or-lower](https://github.com/Joryuoo/Yeeeettt--/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joryuoo/Yeeeettt--/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |

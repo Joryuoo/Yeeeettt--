@@ -78,6 +78,7 @@ A collection of my ass LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Joryuoo/Yeeeettt--/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joryuoo/Yeeeettt--/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joryuoo/Yeeeettt--/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -165,5 +166,6 @@ A collection of my ass LeetCode solutions
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Joryuoo/Yeeeettt--/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joryuoo/Yeeeettt--/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of my ass LeetCode solutions
 | [0001-two-sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Joryuoo/Yeeeettt--/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Joryuoo/Yeeeettt--/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joryuoo/Yeeeettt--/tree/master/0035-search-insert-position) |
@@ -31,6 +32,7 @@ A collection of my ass LeetCode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Joryuoo/Yeeeettt--/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Joryuoo/Yeeeettt--/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -162,6 +164,7 @@ A collection of my ass LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |

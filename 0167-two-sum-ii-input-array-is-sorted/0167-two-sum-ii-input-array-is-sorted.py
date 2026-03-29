@@ -5,12 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        n  = numbers
+        l, r = 0, len(n) - 1
 
-        l, r = 0, len(numbers) - 1
         while l <= r:
-            if numbers[l] + numbers[r] == target:
+            if n[l] + n[r] == target:
                 return [l + 1, r + 1]
-            elif numbers[l] + numbers[r] > target:
-                r -= 1
-            else:
+            elif n[l] + n[r] < target:
                 l += 1
+            else:
+                r -= 1
+            
+        

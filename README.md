@@ -42,6 +42,7 @@ A collection of my ass LeetCode solutions
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Joryuoo/Yeeeettt--/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -83,6 +84,7 @@ A collection of my ass LeetCode solutions
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Joryuoo/Yeeeettt--/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joryuoo/Yeeeettt--/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joryuoo/Yeeeettt--/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/1539-kth-missing-positive-number) |
@@ -119,6 +121,7 @@ A collection of my ass LeetCode solutions
 | [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |

@@ -13,12 +13,12 @@ class Solution(object):
             res = people[a] + people[b]
 
             if res <= limit:
-                boats += 1
                 a += 1
                 b -= 1
             else:
-                boats += 1
-                b -= 1
+                b -= 1 #the heaviest goes alone dead ass
             
-        return boats 
+            boats += 1
+
+        return boats
         

@@ -22,6 +22,7 @@ A collection of my ass LeetCode solutions
 | [0643-maximum-average-subarray-i](https://github.com/Joryuoo/Yeeeettt--/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Joryuoo/Yeeeettt--/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Joryuoo/Yeeeettt--/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joryuoo/Yeeeettt--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/1539-kth-missing-positive-number) |
@@ -43,6 +44,7 @@ A collection of my ass LeetCode solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/Joryuoo/Yeeeettt--/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Joryuoo/Yeeeettt--/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |
+| [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -164,12 +166,14 @@ A collection of my ass LeetCode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Joryuoo/Yeeeettt--/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Joryuoo/Yeeeettt--/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Interactive
 |  |

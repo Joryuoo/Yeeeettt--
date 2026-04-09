@@ -5,20 +5,19 @@ class Solution(object):
         :type limit: int
         :rtype: int
         """
+
         people.sort()
 
-        a, b = 0, len(people) - 1
+        l = 0
+        r = len(people) - 1
         boats = 0
-        while a <= b:
-            res = people[a] + people[b]
-
-            if res <= limit:
-                a += 1
-                b -= 1
+        while l <= r:
+            if people[l] + people[r] <= limit:
+                boats += 1
+                l += 1
+                r -= 1
             else:
-                b -= 1 #the heaviest goes alone dead ass
-            
-            boats += 1
-
+                boats += 1
+                r-= 1
         return boats
         

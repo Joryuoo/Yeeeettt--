@@ -30,6 +30,7 @@ A collection of my ass LeetCode solutions
 | [1539-kth-missing-positive-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Joryuoo/Yeeeettt--/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of my ass LeetCode solutions
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Joryuoo/Yeeeettt--/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Joryuoo/Yeeeettt--/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of my ass LeetCode solutions
 | [0011-container-with-most-water](https://github.com/Joryuoo/Yeeeettt--/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of my ass LeetCode solutions
 | [0881-boats-to-save-people](https://github.com/Joryuoo/Yeeeettt--/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Joryuoo/Yeeeettt--/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Interactive
 |  |
 | ------- |

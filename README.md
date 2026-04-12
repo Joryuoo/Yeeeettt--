@@ -133,6 +133,7 @@ A collection of my ass LeetCode solutions
 | [0066-plus-one](https://github.com/Joryuoo/Yeeeettt--/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Joryuoo/Yeeeettt--/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joryuoo/Yeeeettt--/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joryuoo/Yeeeettt--/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -164,6 +165,7 @@ A collection of my ass LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Joryuoo/Yeeeettt--/tree/master/0392-is-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Joryuoo/Yeeeettt--/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
@@ -207,4 +209,8 @@ A collection of my ass LeetCode solutions
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Joryuoo/Yeeeettt--/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

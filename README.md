@@ -17,6 +17,7 @@ A collection of my ass LeetCode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Joryuoo/Yeeeettt--/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Joryuoo/Yeeeettt--/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0605-can-place-flowers) |
@@ -91,6 +92,7 @@ A collection of my ass LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Joryuoo/Yeeeettt--/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Joryuoo/Yeeeettt--/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joryuoo/Yeeeettt--/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Joryuoo/Yeeeettt--/tree/master/0633-sum-of-square-numbers) |

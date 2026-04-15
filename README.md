@@ -16,6 +16,7 @@ A collection of my ass LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joryuoo/Yeeeettt--/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joryuoo/Yeeeettt--/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Joryuoo/Yeeeettt--/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Joryuoo/Yeeeettt--/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Joryuoo/Yeeeettt--/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Joryuoo/Yeeeettt--/tree/master/0283-move-zeroes) |
@@ -215,4 +216,8 @@ A collection of my ass LeetCode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Joryuoo/Yeeeettt--/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Joryuoo/Yeeeettt--/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

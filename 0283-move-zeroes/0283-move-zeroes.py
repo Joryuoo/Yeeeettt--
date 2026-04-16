@@ -10,7 +10,7 @@ class Solution(object):
             if nums[i] != 0:
                 nums[j] = nums[i]
                 j += 1
-            i += 1
+            
         
         while j < len(nums):
             nums[j] = 0
